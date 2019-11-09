@@ -1,0 +1,12 @@
+[submodule "clay"]
+	path = clay
+	url = git@github.com:clay-rs/clay.git
+[submodule "clay-core"]
+	path = clay-core
+	url = git@github.com:clay-rs/clay-core.git
+[submodule "clay-viewer"]
+	path = clay-viewer
+	url = git@github.com:clay-rs/clay-viewer.git
+[submodule "clay-utils"]
+	path = clay-utils
+	url = git@github.com:clay-rs/clay-utils.git

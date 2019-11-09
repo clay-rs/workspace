@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "clay-core",
+    "clay-utils",
+    "clay-viewer",
+    "clay"
+]
